@@ -1,0 +1,5 @@
+[DEFAULT]
+sim_id      = C1234
+student_key = 1234
+username    = user
+password    = pass
